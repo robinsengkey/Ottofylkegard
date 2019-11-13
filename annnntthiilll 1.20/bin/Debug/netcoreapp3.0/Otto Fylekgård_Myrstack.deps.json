@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Otto Fylekgård_Myrstack/1.0.0": {
+        "runtime": {
+          "Otto Fylekgård_Myrstack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otto Fylekgård_Myrstack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

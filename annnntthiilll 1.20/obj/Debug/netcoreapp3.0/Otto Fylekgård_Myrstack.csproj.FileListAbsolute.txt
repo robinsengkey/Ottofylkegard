@@ -1,0 +1,11 @@
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\bin\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.exe
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\bin\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.deps.json
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\bin\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.runtimeconfig.json
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\bin\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.runtimeconfig.dev.json
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\bin\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.dll
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\bin\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.pdb
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\obj\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.csprojAssemblyReference.cache
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\obj\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.AssemblyInfoInputs.cache
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\obj\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.AssemblyInfo.cs
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\obj\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.dll
+C:\Users\otto.svenbergfylkeg.CND8261PKR\source\repos\annnntthiilll 1.20\obj\Debug\netcoreapp3.0\Otto Fylekgård_Myrstack.pdb

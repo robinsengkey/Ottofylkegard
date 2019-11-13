@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\Inlämning1\\OSF\\annnntthiilll 1.20\\Otto Fylkegård_Myrstack.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\Inlämning1\\OSF\\annnntthiilll 1.20\\Otto Fylkegård_Myrstack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\Inlämning1\\OSF\\annnntthiilll 1.20\\Otto Fylkegård_Myrstack.csproj",
+        "projectName": "Otto Fylkegård_Myrstack",
+        "projectPath": "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\Inlämning1\\OSF\\annnntthiilll 1.20\\Otto Fylkegård_Myrstack.csproj",
+        "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robin\\source\\repos\\PRRPRR01v2\\Inlämning1\\OSF\\annnntthiilll 1.20\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
